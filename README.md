@@ -26,6 +26,7 @@ I also used the **AWS Pricing Calculator** to estimate the monthly cost of runni
 > - Region: `us-east-1`
 > - Estimated Cost: **$28.08/month**
 
+![Screenshot (329)](https://github.com/user-attachments/assets/fa8c5685-42e6-41d1-b53b-5a61742050dd)
 
 ## 2. Right-Sizing Resources
 
@@ -41,6 +42,9 @@ Right-sizing means adjusting the size of cloud resources to match the workload r
 
 
 ---
+![Screenshot (325)](https://github.com/user-attachments/assets/0d27f250-3852-4214-abdd-01d0f7dcf542)
+![Screenshot (326)](https://github.com/user-attachments/assets/2fb7008a-aef7-4883-894f-3cf89fc21740)
+![Screenshot (327)](https://github.com/user-attachments/assets/008e0711-abc7-42b4-a8cc-6969927738e8)
 
 ## 3. Reserved Instances vs. Spot Instances
 
@@ -69,11 +73,11 @@ Tagging is very powerful for tracking AWS costs across projects and teams.
 - Applied these tags to EC2 instances, S3 buckets, and RDS databases.
 - Enabled **Cost Allocation Tags** in the AWS Billing dashboard.
 
-✅ *[Insert Screenshot Here]*
 
 This made it easy to filter and attribute costs to specific projects, environments, or teams.
 
 ---
+![Screenshot (328)](https://github.com/user-attachments/assets/3f6584f7-58f1-4d9a-8a36-3d35002dd5e7)
 
 ## 5. Reviewing AWS Bill
 
@@ -88,7 +92,6 @@ I logged into the **AWS Billing Dashboard** and analyzed my past bills.
 - Right-size EC2 instances.
 - Enable S3 lifecycle policies to move old data to cheaper storage classes like **S3 Glacier**.
 
-✅ *[Insert Screenshot Here]*
 
 ---
 
